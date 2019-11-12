@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">REST Countries v1</string>
+
+
+    <string-array name="search_params">
+
+        <item>by Country Name</item>
+        <item>by Language</item>
+        <item>by Region</item>
+        <item>by Capital</item>
+
+    </string-array>
+</resources>
