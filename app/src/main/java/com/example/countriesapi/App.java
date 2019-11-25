@@ -9,6 +9,7 @@ import com.example.countriesapi.model.db.DBRepositoryImpl;
 
 public class App extends Application {
 
+    public static final String API_KEY = BuildConfig.API_KEY;
 
     private static DBHelper dbHelper;
     private static DBRepository dbRepository;
